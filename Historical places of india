@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Historical places of India</title>
+    <style>
+        header{
+            left: 0px;
+            top: 0px;
+            color: rgb(56, 129, 231);
+            font-size: 33px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            text-align: center;
+            background-image: linear-gradient(120deg,orange,white,green);
+            border-radius: 2% 20px;
+            box-shadow: 10px 10px 8px brown;
+        }
+        footer{
+            left: 0px;
+            bottom: 0px;
+            color: rgb(56, 129, 231);
+            font-size: 33px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            text-align: center;
+            background-image: linear-gradient(120deg,orange,white,green);
+            border-radius: 2% 20px;
+            box-shadow: 8px 8px 6px brown;
+            
+            
+        }
+        body{
+            background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFtnDivouZryyCOFjLiaGWciCekTq7steW8w&usqp=CAU);
+            background-size: cover;
+            text-align: center;
+            font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-size: 25px;    
+        }
+        .a{
+            margin: 20px;
+            border: 1px;
+            float: left;
+            width: 290px;
+            padding: 20px;
+            border-style: double;
+            border-width: 2px;
+        }
+        div{
+            padding-left: 25px;
+        }
+        
+    </style>
+</head>
+<body>
+    <header>Historical places of India</header>
+    <div class="maindiv">
+        <div class="a"><a href="https://en.wikipedia.org/wiki/Taj_Mahal"><img src="https://www.treebo.com/blog/wp-content/uploads/2018/08/Historic-Places-in-India.jpg" width="300px" height="300px"></a> Taj_Mahal
+        </div>
+
+        <div class="a"><a href="https://en.wikipedia.org/wiki/Red_Fort"><img src="https://static2.tripoto.com/media/filter/tst/img/1339317/TripDocument/1547700259_lal_quila.jpg" width="300px" height="300px"></a> Red_Fort
+        </div>
+
+        <div class="a"><a href="https://en.wikipedia.org/wiki/Hawa_Mahal"><img src="https://www.holidify.com/images/attr_square/2131.png" width="300px" height="300px"></a> Hawa_Mahal   
+        </div>
+    
+        <div class="a"><a href="https://en.wikipedia.org/wiki/Lotus_Temple"><img src="http://2.bp.blogspot.com/-JYQ8x3mIAq4/UdRNXZb3rtI/AAAAAAAAATs/VpGaowkM4cw/s1600/Lotus-Temple-front+view.jpg" width="300px" height="300px"></a> Lotus_Temple
+        </div>
+
+        <div class="a"><a href="https://en.wikipedia.org/wiki/Amber_Fort"><img src="https://www.tutorialspoint.com/amer_fort/images/amer_fort.jpg" width="300px" height="300px"></a>  Amer_fort 
+        </div>
+
+        <div class="a"><a href="https://en.wikipedia.org/wiki/Victoria_Memorial,_Kolkata"><img src="https://www.livemint.com/rf/Image-621x414/LiveMint/Period1/2012/12/04/Photos/VICTORIA%20MEMORIAL%20FILE2--621x414.jpg" width="300px" height="300px"></a> Victoria_Memorial   
+        </div>
+
+        <div class="a"><a href="https://en.wikipedia.org/wiki/Khajuraho_Group_of_Monuments"><img src="https://static.toiimg.com/photo/70192987.cms" width="300px" height="300px"></a> Khajuraho Temples  
+        </div>
+
+        <div class="a"><a href="https://en.wikipedia.org/wiki/Golden_Temple"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/The_Golden_Temple_of_Amrithsar_7.jpg/800px-The_Golden_Temple_of_Amrithsar_7.jpg" width="300px" height="300px"></a> Golden Temple
+        </div>
+
+        <div class="a"><a href="https://en.wikipedia.org/wiki/India_Gate"><img src="https://indiacsr.in/wp-content/uploads/2022/07/India-Gate.jpg" width="300px" height="300px"></a> India Gate  
+        </div>
+
+        <audio src="https://pagalworldl.com/files/download/id/11602" controls></audio>
+        <footer>Thank You</footer>
+    </div>
+</body>
+</html>
